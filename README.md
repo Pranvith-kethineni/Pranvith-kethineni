@@ -4,4 +4,4 @@ I'm a passionate Computer Science undergraduate at Mahindra University, speciali
 
 ## 📫 Get in Touch
 - Email: kethineni.pranvith@gmail.com
-- LinkedIn: [Your LinkedIn Profile](#) *(Add your link!)*
+- LinkedIn: https://www.linkedin.com/in/pranvith-kethineni-6905a3323/
