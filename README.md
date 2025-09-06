@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Pranvith Kethineni
 
-Welcome to my portfolio! I'm Pranvith Kethineni, I'm a passionate Computer Science undergraduate at Mahindra University, specializing in **Machine Learning, Deep Learning, and Software Development**. I have hands-on experience developing AI models, digital image processing solutions, and modern mobile applications. My goal is to contribute innovative solutions at the intersection of AI and software engineering, and to keep expanding my skills by tackling real-world problems.
+Welcome to my portfolio! I'm Pranvith Kethineni, I'm a passionate Computer Science undergraduate at Mahindra University, specializing in **Machine Learning, Deep Learning, and Software Development**. I have hands-on experience developing modern mobile applications, machine learning models and Maze-solving projects. My goal is to contribute innovative solutions at the intersection of AI and software engineering, and to keep expanding my skills by tackling real-world problems.
 
 ---
 
 ## 🛠️ Skills
 
 - **Programming Languages:** Python, Java, C
-- **Web:** HTML, CSS, React, Node.js
+- **Web:**  React, Node.js
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, VS Code, Linux
 - **Other:** Data Structures, Algorithms, OOP, Operating Systems
